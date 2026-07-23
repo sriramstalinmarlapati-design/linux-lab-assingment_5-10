@@ -1,0 +1,10 @@
+Duplicate found: ./submissions/bob_hw1.txt
+Duplicate found: ./submissions/dave_hw1.txt
+==========================================
+Submission Processing Report
+Generated: Thu Jul 23 12:51:32 UTC 2026
+==========================================
+Total files processed : 4
+Duplicate files found  : 2
+Unique files backed up : 2
+Backup location        : ./backup_20260723_125132
